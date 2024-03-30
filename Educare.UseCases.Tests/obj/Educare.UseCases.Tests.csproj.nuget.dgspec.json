@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.UseCases.Tests\\Educare.UseCases.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Application\\Educare.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Application\\Educare.Application.csproj",
+        "projectName": "Educare.Application",
+        "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Application\\Educare.Application.csproj",
+        "packagesPath": "C:\\Users\\rnasc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rnasc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\Educare.Core.csproj": {
+                "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\Educare.Core.csproj"
+              },
+              "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.InfraStructure\\Educare.InfraStructure.csproj": {
+                "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.InfraStructure\\Educare.InfraStructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\Educare.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\Educare.Core.csproj",
+        "projectName": "Educare.Core",
+        "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\Educare.Core.csproj",
+        "packagesPath": "C:\\Users\\rnasc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rnasc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.InfraStructure\\Educare.InfraStructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.InfraStructure\\Educare.InfraStructure.csproj",
+        "projectName": "Educare.InfraStructure",
+        "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.InfraStructure\\Educare.InfraStructure.csproj",
+        "packagesPath": "C:\\Users\\rnasc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.InfraStructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rnasc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\Educare.Core.csproj": {
+                "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Core\\Educare.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.UseCases.Tests\\Educare.UseCases.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.UseCases.Tests\\Educare.UseCases.Tests.csproj",
+        "projectName": "Educare.UseCases.Tests",
+        "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.UseCases.Tests\\Educare.UseCases.Tests.csproj",
+        "packagesPath": "C:\\Users\\rnasc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.UseCases.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rnasc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Application\\Educare.Application.csproj": {
+                "projectPath": "C:\\Users\\rnasc\\OneDrive\\Documentos\\ludescomplica\\Educare.Api\\Educare.Application\\Educare.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoFixture.AutoNSubstitute": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
